@@ -1,9 +1,13 @@
-Buttons
+按钮
 -------
+
+到目前为止我们创建代码让micro:bit做一些事情，称之为*输出* 。相反地，我们还需要让micro:bit对一些事物起作用，称之为*输入* 。
 
 So far we have created code that makes the device do something. This is called
 *output*. However, we also need the device to react to things. Such things are
 called *inputs*.
+
+输出是设备对外界输出信息，而输入是设备自己处理信息。这很容易记住。
 
 It's easy to remember: output is what the device puts out to the world
 whereas input is what goes into the device for it to process.
